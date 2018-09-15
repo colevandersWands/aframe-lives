@@ -8,3 +8,4 @@
 [caseyyee](https://caseyyee.github.io/aframe-ui-widgets/examples/)  
 [dat.guivr](https://github.com/dataarts/dat.guiVR)  
 [k-frame](https://github.com/ngokevin/kframe)  
+[aframe set-component](https://glitch.com/%7Eaframe-event-set-component)  
