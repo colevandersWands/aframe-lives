@@ -5,4 +5,5 @@
 [dat.guivr box stable](https://codepen.io/donmccurdy/pen/KqXygv?editors=1010)  
 [dat.guivr scale box](https://codepen.io/bryik/pen/XgzoJy)  
 [dat.guivr scale sphere](https://aframing-1--colevanderswands.repl.co/datgui-aframe/index.html)  
-[caseyyee](https://caseyyee.github.io/aframe-ui-widgets/examples/)
+[caseyyee](https://caseyyee.github.io/aframe-ui-widgets/examples/)  
+[dat.guivr](https://github.com/dataarts/dat.guiVR)
