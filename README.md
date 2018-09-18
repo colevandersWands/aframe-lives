@@ -9,7 +9,7 @@
 [dat.guivr](https://github.com/dataarts/dat.guiVR)  
 [k-frame](https://github.com/ngokevin/kframe)  
 [aframe set-component](https://glitch.com/%7Eaframe-event-set-component)  
-[rdub80](https://github.com/rdub80/aframe-gui) 
-[ui prototype](https://glitch.com/edit/#!/a-frame-webvr-ui-prototype?path=index.html:1:0)  
+[rdub80](https://github.com/rdub80/aframe-gui)   
+[ui prototype](https://glitch.com/edit/#!/a-frame-webvr-ui-prototype?path=index.html:1:0)    
 [vr nav](https://codepen.io/captDaylight/pen/PNaVmR?editors=1000)  
 
