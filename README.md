@@ -13,4 +13,6 @@
 [ui prototype](https://glitch.com/edit/#!/a-frame-webvr-ui-prototype?path=index.html:1:0)    
 [vr nav](https://colevanderswands.github.io/vr-nav/)   
 [aframe-gui demo](http://aframe-gui.herokuapp.com/demo.html)  
-[yes?](https://codepen.io/cwervo/pen/vZzJKe?editors=1010)  
+[yes?](https://codepen.io/cwervo/pen/vZzJKe?editors=1010)   
+  
+[example steps](https://learnathon-examples--colevanderswands.repl.co/index.html)  
